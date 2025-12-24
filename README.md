@@ -1,16 +1,19 @@
-## Hi there 👋
+# Akashneel Bhattacharya
 
-<!--
-**sky-sage/sky-sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious engineering student exploring the worlds of machine learning, digital electronics, and semiconductor physics. Passionate about learning, building, and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## About
+- Currently in my first semester of engineering.
+- Eager to deepen my knowledge in programming, circuit design, and numerical methods.
+- Actively learning and experimenting with new technologies and concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Skills](https://skillicons.dev/icons?i=c,cpp,matlab,arduino)
+
+## What I'm Working On
+- Getting hands-on with basic programming and electronics projects.
+- Exploring machine learning algorithms and semiconductor fundamentals.
+
+## Get in Touch
+- Open to connect with fellow learners and mentors.
+- Excited to share my progress and learn from others.
