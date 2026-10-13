@@ -3,7 +3,7 @@
 Curious engineering student exploring the worlds of machine learning, digital electronics, and semiconductor physics. Passionate about learning, building, and contributing to open-source projects.
 
 ## About
-- Currently in my first semester of engineering.
+- Currently in my third semester of engineering.
 - Eager to deepen my knowledge in programming, circuit design, and numerical methods.
 - Actively learning and experimenting with new technologies and concepts.
 
